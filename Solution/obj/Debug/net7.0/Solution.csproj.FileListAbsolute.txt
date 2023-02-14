@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\finalTask\Solution\bin\Debug\net7.0\Solution.exe
+D:\GeekBrains\C#\finalTask\Solution\bin\Debug\net7.0\Solution.deps.json
+D:\GeekBrains\C#\finalTask\Solution\bin\Debug\net7.0\Solution.runtimeconfig.json
+D:\GeekBrains\C#\finalTask\Solution\bin\Debug\net7.0\Solution.dll
+D:\GeekBrains\C#\finalTask\Solution\bin\Debug\net7.0\Solution.pdb
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.AssemblyInfo.cs
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.dll
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\refint\Solution.dll
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.pdb
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\Solution.genruntimeconfig.cache
+D:\GeekBrains\C#\finalTask\Solution\obj\Debug\net7.0\ref\Solution.dll
